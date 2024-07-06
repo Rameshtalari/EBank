@@ -1,0 +1,20 @@
+.no-con {
+  text-align: center;
+  padding: 20px;
+}
+
+.ni {
+  width: 100%;
+  max-width: 300px;
+  margin-bottom: 20px;
+}
+
+.nh {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.np {
+  font-size: 18px;
+  color: #666;
+}
